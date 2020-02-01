@@ -9,7 +9,7 @@
 * Webpage of the map
 * Json file for the population Dataset
 
-## Library Used
+## Library
 * Folium
 * Pandas
 
