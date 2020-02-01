@@ -1,6 +1,6 @@
 ## Table of contents
 * [Index](#index)
-* [Library_Used](#library_used)
+* [Library](#library)
 * [Technologies](#technologies)
 
 ## Index
