@@ -1,6 +1,6 @@
 ## Table of contents
 * [Index](#index)
-* [Library](#library)
+* [Library_Used](#library_used)
 * [Technologies](#technologies)
 
 ## Index
@@ -9,7 +9,7 @@
 * Webpage of the map
 * Json file for the population Dataset
 
-## Library
+## Library_Used
 * Folium
 * Pandas
 
